@@ -1,0 +1,1 @@
+INSERT INTO clientes_boris_aguilar VALUES (NULL,'Aguilar','0123345556','loco@gmail.com','12 de octubre','Boris','091234567');
